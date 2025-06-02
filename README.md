@@ -52,11 +52,10 @@
 ---
 
 ## 📸 Screenshots
-
 | Signup Page | Homepage |
 |-------------|----------|
-| ![Signup](screenshots/signup.png) | ![Homepage](screenshots/homepage.png) |
+| <img src="screenshots/signup.png" width="300"> | <img src="screenshots/homepage.png" width="300"> |
 
 | Search | Courses |
 |--------|---------|
-| ![Search](screenshots/search.png) | ![Courses](screenshots/courses.png) |
+| <img src="screenshots/search.png" width="300"> | <img src="screenshots/courses.png" width="300"> |
