@@ -54,8 +54,8 @@
 ## 📸 Screenshots
 | Signup Page | Homepage |
 |-------------|----------|
-| <img src="screenshots/signup.png" width="250"> | <img src="screenshots/homepage.png" width="250"> |
+| <img src="screenshots/signup.png" width="280"> | <img src="screenshots/homepage.png" width="280"> |
 
 | Search | Courses |
 |--------|---------|
-| <img src="screenshots/search.png" width="250"> | <img src="screenshots/courses.png" width="250"> |
+| <img src="screenshots/search.png" width="280"> | <img src="screenshots/courses.png" width="280"> |
